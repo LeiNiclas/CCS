@@ -1,0 +1,2 @@
+0,1,2,3,4,5,6
+['immOutcome'],['delOutcome'],['delay'],"['action (1=immediate, 2=delayed, 0=missing)']",['p_imm'],"['condition (1=reward,2=loss)']",['RT']
